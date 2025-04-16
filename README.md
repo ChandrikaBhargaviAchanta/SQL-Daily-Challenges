@@ -1,1 +1,1 @@
-# SQL-Daily-Challenges-
+# SQL-Daily-Challenges
