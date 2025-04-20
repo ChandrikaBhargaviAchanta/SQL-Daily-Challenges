@@ -15,11 +15,11 @@ Click on the link to get started with the LeetCode SQL 50 challenge:
 
 | S.No | Problem Title                              | Difficulty |
 |------|--------------------------------------------|------------|
-| 1    | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/?envType=study-plan-v2&envId=top-sql-50)            | Easy       |
-| 2    | [Find Customer Referee]()                      | Easy       |
-| 3    | [Big Countries]()                              | Easy       |
-| 4    | [Article Views]()_ I                            | Easy       |
-| 5    | [Invalid Tweets]()                             | Easy       |
+| 1    | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/?envType=study-plan-v2&envId=top-sql-50) | Easy |
+| 2    | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/?envType=study-plan-v2&envId=top-sql-50) | Easy |
+| 3    | [Big Countries](https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50) | Easy |
+| 4    | [Article Views](https://leetcode.com/problems/article-views-i/description/?envType=study-plan-v2&envId=top-sql-50) | Easy |
+| 5    | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/description/?envType=study-plan-v2&envId=top-sql-50) | Easy |
 | 6    | [Rising Temperature]()                         | Easy       |
 | 7    | [Average Time of Process per Machine]()        | Easy       |
 | 8    | [Employee Bonus]()                             | Easy       |
