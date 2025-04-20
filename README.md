@@ -27,7 +27,7 @@ Click on the link to get started with the LeetCode SQL 50 challenge:
 | 10   | [Confirmation Rate]()                          | Medium     |
 | 11   | [Not Boring Movies]()                          | Easy       |
 | 12   | [Average Selling Price]()                      | Easy       |
-| 13   | [Project Employees]() I                        | Easy       |
+| 13   | [Project Employees]()                          | Easy       |
 | 14   | [Percentage of Users Attended a Contest]()     | Easy       |
 | 15   | [Queries Quality and Percentage]()             | Easy       |
 
