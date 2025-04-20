@@ -15,21 +15,21 @@ Click on the link to get started with the LeetCode SQL 50 challenge:
 
 | S.No | Problem Title                              | Difficulty |
 |------|--------------------------------------------|------------|
-| 1    | Recyclable and Low Fat Products            | Easy       |
-| 2    | Find Customer Referee                      | Easy       |
-| 3    | Big Countries                              | Easy       |
-| 4    | Article Views I                            | Easy       |
-| 5    | Invalid Tweets                             | Easy       |
-| 6    | Rising Temperature                         | Easy       |
-| 7    | Average Time of Process per Machine        | Easy       |
-| 8    | Employee Bonus                             | Easy       |
-| 9    | Students and Examinations                  | Easy       |
-| 10   | Confirmation Rate                          | Medium     |
-| 11   | Not Boring Movies                          | Easy       |
-| 12   | Average Selling Price                      | Easy       |
-| 13   | Project Employees I                        | Easy       |
-| 14   | Percentage of Users Attended a Contest     | Easy       |
-| 15   | Queries Quality and Percentage             | Easy       |
+| 1    | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/?envType=study-plan-v2&envId=top-sql-50)            | Easy       |
+| 2    | [Find Customer Referee]()                      | Easy       |
+| 3    | [Big Countries]()                              | Easy       |
+| 4    | [Article Views]()_ I                            | Easy       |
+| 5    | [Invalid Tweets]()                             | Easy       |
+| 6    | [Rising Temperature]()                         | Easy       |
+| 7    | [Average Time of Process per Machine]()        | Easy       |
+| 8    | [Employee Bonus]()                             | Easy       |
+| 9    | [Students and Examinations]()                  | Easy       |
+| 10   | [Confirmation Rate]()                          | Medium     |
+| 11   | [Not Boring Movies]()                          | Easy       |
+| 12   | [Average Selling Price]()                      | Easy       |
+| 13   | [Project Employees]() I                        | Easy       |
+| 14   | [Percentage of Users Attended a Contest]()     | Easy       |
+| 15   | [Queries Quality and Percentage]()             | Easy       |
 
 ---
 
@@ -37,17 +37,16 @@ Click on the link to get started with the LeetCode SQL 50 challenge:
 
 | S.No | Problem Title                                              | Difficulty |
 |------|------------------------------------------------------------|------------|
-| 16   | Basic Joins                                                | Easy       |
-| 17   | Replace Employee ID With The Unique Identifier             | Easy       |
-| 18   | Product Sales Analysis I                                   | Easy       |
-| 19   | Customer Who Visited but Did Not Make Any Transactions     | Easy       |
-| 20   | Monthly Transactions I                                     | Medium     |
-| 21   | Immediate Food Delivery II                                 | Medium     |
-| 22   | Game Play Analysis IV                                      | Medium     |
-| 23   | Find Followers Count                                       | Easy       |
-| 24   | Customers Who Bought All Products                          | Medium     |
-| 25   | Primary Department for Each Employee                       | Easy       |
-| 26   | The Number of Employees Which Report to Each Employee      | Easy       |
+| 16   | Replace Employee ID With The Unique Identifier             | Easy       |
+| 17   | Product Sales Analysis I                                   | Easy       |
+| 18   | Customer Who Visited but Did Not Make Any Transactions     | Easy       |
+| 19   | Monthly Transactions I                                     | Medium     |
+| 20   | Immediate Food Delivery II                                 | Medium     |
+| 21   | Game Play Analysis IV                                      | Medium     |
+| 22   | Find Followers Count                                       | Easy       |
+| 23   | Customers Who Bought All Products                          | Medium     |
+| 24   | Primary Department for Each Employee                       | Easy       |
+| 25   | The Number of Employees Which Report to Each Employee      | Easy       |
 
 ---
 
