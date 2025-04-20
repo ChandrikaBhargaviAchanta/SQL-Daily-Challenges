@@ -1,5 +1,5 @@
 # LeetCode SQL 50 – Ace Your Data Analytics Interviews with SQL!
-Welcome to the [LeetCode SQL 50](https://leetcode.com/studyplan/top-sql-50/) challenge! 
+Welcome to the LeetCode SQL 50 challenge! 
 
 Kickstart your SQL journey with the LeetCode SQL 50 study plan! This comprehensive collection of 50 essential SQL problems is designed to help you:
 - Strengthen your SQL fundamentals
@@ -18,7 +18,7 @@ Click on the link to get started with the LeetCode SQL 50 challenge:
 | 1    | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/?envType=study-plan-v2&envId=top-sql-50) | Easy |
 | 2    | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/?envType=study-plan-v2&envId=top-sql-50) | Easy |
 | 3    | [Big Countries](https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50) | Easy |
-| 4    | [Article Views](https://leetcode.com/problems/article-views-i/description/?envType=study-plan-v2&envId=top-sql-50) | Easy |
+| 4    | [Article Views I](https://leetcode.com/problems/article-views-i/description/?envType=study-plan-v2&envId=top-sql-50) | Easy |
 | 5    | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/description/?envType=study-plan-v2&envId=top-sql-50) | Easy |
 | 6    | [Rising Temperature]()                         | Easy       |
 | 7    | [Average Time of Process per Machine]()        | Easy       |
