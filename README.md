@@ -10,7 +10,9 @@ Click on the link to get started with the LeetCode SQL 50 challenge:
 [LeetCode SQL 50](https://leetcode.com/studyplan/top-sql-50/)
 
 ## 📘 Problem List
+
 #### Select
+
 | S.No | Problem Title                              | Difficulty |
 |------|--------------------------------------------|------------|
 | 1    | Recyclable and Low Fat Products            | Easy       |
@@ -32,6 +34,7 @@ Click on the link to get started with the LeetCode SQL 50 challenge:
 ---
 
 #### Basic Joins
+
 | S.No | Problem Title                                              | Difficulty |
 |------|------------------------------------------------------------|------------|
 | 16   | Basic Joins                                                | Easy       |
@@ -49,6 +52,7 @@ Click on the link to get started with the LeetCode SQL 50 challenge:
 ---
 
 #### Basic Aggregate Functions
+
 | S.No | Problem Title                                     | Difficulty |
 |------|---------------------------------------------------|------------|
 | 27   | Number of Unique Subjects Taught by Each Teacher | Easy       |
@@ -62,6 +66,7 @@ Click on the link to get started with the LeetCode SQL 50 challenge:
 ---
 
 #### Sorting and Grouping
+
 | S.No | Problem Title                                | Difficulty |
 |------|----------------------------------------------|------------|
 | 34   | Movie Rating                                  | Medium     |
@@ -73,6 +78,7 @@ Click on the link to get started with the LeetCode SQL 50 challenge:
 ---
 
 #### Advanced Select and Joins
+
 | S.No | Problem Title                              | Difficulty |
 |------|--------------------------------------------|------------|
 | 39   | Last Person to Fit in the Bus              | Medium     |
@@ -84,6 +90,7 @@ Click on the link to get started with the LeetCode SQL 50 challenge:
 ---
 
 #### Subqueries
+
 | S.No | Problem Title                              | Difficulty |
 |------|--------------------------------------------|------------|
 | 44   | Employees Whose Manager Left the Company   | Easy       |
@@ -93,6 +100,7 @@ Click on the link to get started with the LeetCode SQL 50 challenge:
 ---
 
 #### Advanced String Functions / Regex / Clause
+
 | S.No | Problem Title                  | Difficulty |
 |------|--------------------------------|------------|
 | 47   | Fix Names in a Table           | Easy       |
