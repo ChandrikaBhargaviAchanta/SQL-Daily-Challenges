@@ -1,7 +1,7 @@
 SELECT 
     start_logs.machine_id,
     ROUND(AVG(end_logs.timestamp - start_logs.timestamp), 3) AS processing_time
-FROM 
+FROM
     Activity start_logs
 JOIN 
     Activity end_logs
