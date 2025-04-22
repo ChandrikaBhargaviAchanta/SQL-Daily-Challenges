@@ -20,16 +20,6 @@ Click on the link to get started with the LeetCode SQL 50 challenge:
 | 3    | [Big Countries](https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50) | Easy |
 | 4    | [Article Views I](https://leetcode.com/problems/article-views-i/description/?envType=study-plan-v2&envId=top-sql-50) | Easy |
 | 5    | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/description/?envType=study-plan-v2&envId=top-sql-50) | Easy |
-| 6    | [Rising Temperature]()                         | Easy       |
-| 7    | [Average Time of Process per Machine]()        | Easy       |
-| 8    | [Employee Bonus]()                             | Easy       |
-| 9    | [Students and Examinations]()                  | Easy       |
-| 10   | [Confirmation Rate]()                          | Medium     |
-| 11   | [Not Boring Movies]()                          | Easy       |
-| 12   | [Average Selling Price]()                      | Easy       |
-| 13   | [Project Employees]()                          | Easy       |
-| 14   | [Percentage of Users Attended a Contest]()     | Easy       |
-| 15   | [Queries Quality and Percentage]()             | Easy       |
 
 ---
 
@@ -37,16 +27,15 @@ Click on the link to get started with the LeetCode SQL 50 challenge:
 
 | S.No | Problem Title                                              | Difficulty |
 |------|------------------------------------------------------------|------------|
-| 16   | Replace Employee ID With The Unique Identifier             | Easy       |
-| 17   | Product Sales Analysis I                                   | Easy       |
-| 18   | Customer Who Visited but Did Not Make Any Transactions     | Easy       |
-| 19   | Monthly Transactions I                                     | Medium     |
-| 20   | Immediate Food Delivery II                                 | Medium     |
-| 21   | Game Play Analysis IV                                      | Medium     |
-| 22   | Find Followers Count                                       | Easy       |
-| 23   | Customers Who Bought All Products                          | Medium     |
-| 24   | Primary Department for Each Employee                       | Easy       |
-| 25   | The Number of Employees Which Report to Each Employee      | Easy       |
+| 6   | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/?envType=study-plan-v2&envId=top-sql-50)  | Easy       |
+| 7   | [Product Sales Analysis](https://leetcode.com/problems/product-sales-analysis-i/description/?envType=study-plan-v2&envId=top-sql-50)  | Easy       |
+| 8   | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/description/?envType=study-plan-v2&envId=top-sql-50) | Easy       |
+| 9   | [Rising Temperature](https://leetcode.com/problems/rising-temperature/description/?envType=study-plan-v2&envId=top-sql-50) | Easy       |
+| 10   | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/description/?envType=study-plan-v2&envId=top-sql-50) | Easy |
+| 11   | [Employee Bonus](https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50)  | Easy       |
+| 12   | [Students and Examinations](https://leetcode.com/problems/students-and-examinations/description/?envType=study-plan-v2&envId=top-sql-50)  | Easy       |
+| 13   | [Managers with at Least 5 Direct Reports]( https://leetcode.com/problems/managers-with-at-least-5-direct-reports/?envType=study-plan-v2&envId=top-sql-50)| Medium |
+| 14   | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/description/?envType=study-plan-v2&envId=top-sql-50) | Medium     |
 
 ---
 
@@ -54,13 +43,13 @@ Click on the link to get started with the LeetCode SQL 50 challenge:
 
 | S.No | Problem Title                                     | Difficulty |
 |------|---------------------------------------------------|------------|
-| 27   | Number of Unique Subjects Taught by Each Teacher | Easy       |
-| 28   | User Activity for the Past 30 Days I              | Easy       |
-| 29   | Product Sales Analysis III                        | Medium     |
-| 30   | Classes More Than 5 Students                      | Easy       |
-| 31   | Biggest Single Number                             | Easy       |
-| 32   | Count Salary Categories                           | Medium     |
-| 33   | Department Top Three Salaries                     | Hard       |
+| 15   | Number of Unique Subjects Taught by Each Teacher | Easy       |
+| 16   | User Activity for the Past 30 Days I              | Easy       |
+| 17   | Product Sales Analysis III                        | Medium     |
+| 18   | Classes More Than 5 Students                      | Easy       |
+| 19   | Biggest Single Number                             | Easy       |
+| 20   | Count Salary Categories                           | Medium     |
+| 21   | Department Top Three Salaries                     | Hard       |
 
 ---
 
