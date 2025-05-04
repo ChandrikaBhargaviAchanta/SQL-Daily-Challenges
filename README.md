@@ -103,7 +103,7 @@ Click on the link to get started with the LeetCode SQL 50 challenge:
 | 44   | [Fixed Names in a Table]()         | Easy       |
 | 45   | [Patients With a Condition]()      | Easy       |
 | 46   | [Delete Duplicate Emails]()         | Easy       |
-| 47   | [second Highest Salary]()  | Easy       |
+| 47   | [second Highest Salary]()  |  Medium     |
 | 48   | [Group Sold Products By The Date]()      | Easy       |
 | 49   | [List the Products Ordered ina Period]()        | Easy       |
 | 50   | [Find Users With Valid E-Mails]() | Easy       |
