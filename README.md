@@ -72,11 +72,13 @@ Click on the link to get started with the LeetCode SQL 50 challenge:
 
 | S.No | Problem Title                              | Difficulty |
 |------|--------------------------------------------|------------|
-| 39   | Last Person to Fit in the Bus              | Medium     |
-| 40   | Investments in 2016                         | Medium     |
-| 41   | Triangle Judgement                          | Easy       |
-| 42   | Consecutive Numbers                         | Medium     |
-| 43   | Product Price at a Given Date               | Medium     |
+| 30   | [The Number of Employees Which Report to Each Employee]() | Medium     |
+| 31   | [Primary Department for Each Employee]()                  | Easy       |
+| 32   | [Triangle Judgement]()                                    | Easy       |
+| 33   | [Consecutive Numbers]()                                  | Medium     |
+| 34   | [Product Price at a Given Date]()                         | Easy       |
+| 35   | [Last Person to Fit in the Bus]()                         | Medium     |
+| 36   | [Count salary Categories]()                               | Medium     |
 
 ---
 
@@ -84,9 +86,13 @@ Click on the link to get started with the LeetCode SQL 50 challenge:
 
 | S.No | Problem Title                              | Difficulty |
 |------|--------------------------------------------|------------|
-| 44   | Employees Whose Manager Left the Company   | Easy       |
-| 45   | Exchange Seats                              | Medium     |
-| 46   | Second Highest Salary                       | Medium     |
+| 37   | [Employees Whose Manager Left the Company]()   | Easy       |
+| 38   | [Exchange Seats]()                             | Medium     |
+| 39   | [Movie Rating]()                               | Medium     |
+| 40   | [Restaurent Growth]()                          | Easy       |
+| 41   | [Friend Requests II: Who Has the Most Friends]() | Medium     |
+| 42   | [Investments in 2016]()                        | Medium     |
+| 43   | [Department Top Three Salaries]()              | Easy       |
 
 ---
 
@@ -94,7 +100,10 @@ Click on the link to get started with the LeetCode SQL 50 challenge:
 
 | S.No | Problem Title                  | Difficulty |
 |------|--------------------------------|------------|
-| 47   | Fix Names in a Table           | Easy       |
-| 48   | Patients With a Condition      | Easy       |
-| 49   | Delete Duplicate Emails        | Easy       |
-| 50   | Find Users With Valid E-Mails | Easy       |
+| 44   | [Fixed Names in a Table]()         | Easy       |
+| 45   | [Patients With a Condition]()      | Easy       |
+| 46   | [Delete Duplicate Emails]()         | Easy       |
+| 47   | [second Highest Salary]()  | Easy       |
+| 48   | [Group Sold Products By The Date]()      | Easy       |
+| 49   | [List the Products Ordered ina Period]()        | Easy       |
+| 50   | [Find Users With Valid E-Mails]() | Easy       |
