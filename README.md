@@ -56,13 +56,15 @@ Click on the link to get started with the LeetCode SQL 50 challenge:
 
 #### Sorting and Grouping
 
-| S.No | Problem Title                                | Difficulty |
-|------|----------------------------------------------|------------|
-| 34   | Movie Rating                                  | Medium     |
-| 35   | Restaurant Growth                             | Medium     |
-| 36   | Friend Requests II: Who Has the Most Friends  | Medium     |
-| 37   | Group Sold Products By The Date               | Easy       |
-| 38   | List the Products Ordered in a Period         | Easy       |
+| S.No | Problem Title                                          | Difficulty |
+|------|--------------------------------------------------------|------------|
+| 23   | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/description/?envType=study-plan-v2&envId=top-sql-50) |   Easy     |
+| 24   | [User Activity for the Past 30 Days I](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/description/?envType=study-plan-v2&envId=top-sql-50) |   Easy     |
+| 25   | [Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/description/?envType=study-plan-v2&envId=top-sql-50)|  Medium    |
+| 26   | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/description/?envType=study-plan-v2&envId=top-sql-50) |   Easy     |
+| 27   | [Find Followers Count](https://leetcode.com/problems/find-followers-count/description/?envType=study-plan-v2&envId=top-sql-50)   |   Easy     |
+| 28   | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number/description/?envType=study-plan-v2&envId=top-sql-50) |   Easy     |
+| 29   | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/description/?envType=study-plan-v2&envId=top-sql-50)|  Medium  |
 
 ---
 
