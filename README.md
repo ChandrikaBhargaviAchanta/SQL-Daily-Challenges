@@ -72,13 +72,13 @@ Click on the link to get started with the LeetCode SQL 50 challenge:
 
 | S.No | Problem Title                              | Difficulty |
 |------|--------------------------------------------|------------|
-| 30   | [The Number of Employees Which Report to Each Employee]() | Medium     |
-| 31   | [Primary Department for Each Employee]()                  | Easy       |
-| 32   | [Triangle Judgement]()                                    | Easy       |
-| 33   | [Consecutive Numbers]()                                  | Medium     |
-| 34   | [Product Price at a Given Date]()                         | Easy       |
-| 35   | [Last Person to Fit in the Bus]()                         | Medium     |
-| 36   | [Count salary Categories]()                               | Medium     |
+| 30   | [The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/description/?envType=study-plan-v2&envId=top-sql-50) | Medium     |
+| 31   | [Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee/?envType=study-plan-v2&envId=top-sql-50)| Easy       |
+| 32   | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/description/?envType=study-plan-v2&envId=top-sql-50)| Easy       |
+| 33   | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/description/?envType=study-plan-v2&envId=top-sql-50) | Medium     |
+| 34   | [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/description/?envType=study-plan-v2&envId=top-sql-50) | Easy       |
+| 35   | [Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus/description/?envType=study-plan-v2&envId=top-sql-50)  | Medium     |
+| 36   | [Count salary Categories](https://leetcode.com/problems/count-salary-categories/description/?envType=study-plan-v2&envId=top-sql-50) | Medium     |
 
 ---
 
@@ -86,13 +86,13 @@ Click on the link to get started with the LeetCode SQL 50 challenge:
 
 | S.No | Problem Title                              | Difficulty |
 |------|--------------------------------------------|------------|
-| 37   | [Employees Whose Manager Left the Company]()   | Easy       |
-| 38   | [Exchange Seats]()                             | Medium     |
-| 39   | [Movie Rating]()                               | Medium     |
-| 40   | [Restaurent Growth]()                          | Easy       |
-| 41   | [Friend Requests II: Who Has the Most Friends]() | Medium     |
-| 42   | [Investments in 2016]()                        | Medium     |
-| 43   | [Department Top Three Salaries]()              | Easy       |
+| 37   | [Employees Whose Manager Left the Company](https://leetcode.com/problems/employees-whose-manager-left-the-company/description/?envType=study-plan-v2&envId=top-sql-50) | Easy       |
+| 38   | [Exchange Seats](https://leetcode.com/problems/exchange-seats/description/?envType=study-plan-v2&envId=top-sql-50)  | Medium     |
+| 39   | [Movie Rating](https://leetcode.com/problems/movie-rating/description/?envType=study-plan-v2&envId=top-sql-50) | Medium     |
+| 40   | [Restaurent Growth](https://leetcode.com/problems/restaurant-growth/description/?envType=study-plan-v2&envId=top-sql-50) | Easy       |
+| 41   | [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/restaurant-growth/description/?envType=study-plan-v2&envId=top-sql-50) | Medium     |
+| 42   | [Investments in 2016](https://leetcode.com/problems/investments-in-2016/description/?envType=study-plan-v2&envId=top-sql-50) | Medium     |
+| 43   | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/description/?envType=study-plan-v2&envId=top-sql-50)| Easy       |
 
 ---
 
@@ -100,10 +100,11 @@ Click on the link to get started with the LeetCode SQL 50 challenge:
 
 | S.No | Problem Title                  | Difficulty |
 |------|--------------------------------|------------|
-| 44   | [Fixed Names in a Table]()         | Easy       |
-| 45   | [Patients With a Condition]()      | Easy       |
-| 46   | [Delete Duplicate Emails]()         | Easy       |
-| 47   | [second Highest Salary]()  |  Medium     |
-| 48   | [Group Sold Products By The Date]()      | Easy       |
-| 49   | [List the Products Ordered ina Period]()        | Easy       |
-| 50   | [Find Users With Valid E-Mails]() | Easy       |
+| 44   | [Fixed Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/description/?envType=study-plan-v2&envId=top-sql-50)         | Easy       |
+| 45   | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/description/?envType=study-plan-v2&envId=top-sql-50)      | Easy       |
+| 46   | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/description/?envType=study-plan-v2&envId=top-sql-50)         | Easy       |
+| 47   | [second Highest Salary](https://leetcode.com/problems/second-highest-salary/description/?envType=study-plan-v2&envId=top-sql-50)  |  Medium     |
+| 48   | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/description/?envType=study-plan-v2&envId=top-sql-50)  | Easy       |
+| 49   | [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/description/?envType=study-plan-v2&envId=top-sql-50)
+| Easy       |
+| 50   | [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/description/?envType=study-plan-v2&envId=top-sql-50) | Easy       |
